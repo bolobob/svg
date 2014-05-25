@@ -1,0 +1,7 @@
+@charset 'utf-8';
+
+svg .pumpkin {
+    fill: yellow;
+    stroke: orange;
+    stroke-width: 5;
+}
